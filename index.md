@@ -1,5 +1,6 @@
 ## Junwei Zhu
 
-  Algorithm Engineer at TENCENT
-  Shanghai,CHina
+Algorithm Engineer at Tencent
+
+Shanghai,China
 
